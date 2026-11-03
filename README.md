@@ -21,6 +21,7 @@
 | | Project | What it is |
 |---|---|---|
 | 📚 | [**study-slides**](https://github.com/Vetame21/study-slides) | Bilingual (EN + ID) lecture slides and quizzes for my courses · [live site](https://vetame21.github.io/study-slides/) |
+| 📱 | [**PulseAndroid**](https://github.com/Vetame21/PulseAndroid) | Pulse Lite: an offline Android app for my day, money and plans. One budget with safe-to-spend, calendar with 农历 and 调休 holidays. Kotlin + Jetpack Compose, no server |
 | 💰 | [**pulse-public**](https://github.com/Vetame21/pulse-public) | My day, money and plans app for life in Mainland China and Hong Kong: budget with separate accounts, calendar with official holidays, morning briefing. Next.js + Supabase, with a demo mode anyone can try |
 | 🚗 | [**co2-emissions-prediction**](https://github.com/Vetame21/co2-emissions-prediction) | Predicting car CO2 emissions with linear regression (pandas, scikit-learn) |
 | 📊 | [**Sample-Superstore-Data-Analysis**](https://github.com/Vetame21/Sample-Superstore-Data-Analysis) | My first solo data analysis project |
@@ -31,6 +32,8 @@
 
 ![C++](https://img.shields.io/badge/C++-C8102E?style=flat-square&logo=cplusplus&logoColor=FFD700)
 ![Python](https://img.shields.io/badge/Python-C8102E?style=flat-square&logo=python&logoColor=FFD700)
+![Kotlin](https://img.shields.io/badge/Kotlin-C8102E?style=flat-square&logo=kotlin&logoColor=FFD700)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-C8102E?style=flat-square&logo=jetpackcompose&logoColor=FFD700)
 ![TypeScript](https://img.shields.io/badge/TypeScript-C8102E?style=flat-square&logo=typescript&logoColor=FFD700)
 ![Next.js](https://img.shields.io/badge/Next.js-C8102E?style=flat-square&logo=nextdotjs&logoColor=FFD700)
 ![Supabase](https://img.shields.io/badge/Supabase-C8102E?style=flat-square&logo=supabase&logoColor=FFD700)
